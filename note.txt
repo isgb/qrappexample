@@ -1,0 +1,3 @@
+npm install deprecated-react-native-prop-types
+npm i react-native-qrcode-scanner
+npm i @react-native-community/geolocation
